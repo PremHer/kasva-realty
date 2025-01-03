@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+# Archivos de compilación
+*.pyc
+__pycache__/
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+# Archivos de base de datos de Django
+db.sqlite3
